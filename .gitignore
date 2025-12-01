@@ -1,0 +1,8 @@
+# Agda build files
+/Agda/_build
+
+# No idea, also made during building
+/Agda/MAlonzo
+
+# Executables
+/Agda/part*
